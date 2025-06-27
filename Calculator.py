@@ -40,8 +40,6 @@ root.rowconfigure(0, weight=1)
 # Sets up the variables and widgets for use in the program
 equation_var = StringVar()
 
-# 
-
 # Number buttons
 for y in range(2, 5):
     for x in range(0, 3):
